@@ -24,5 +24,5 @@ Visit my [Github](https://github.com/dirie93/Next-Plan)
 
 <br>
 
-Visit my [Deployed App]()
+Visit my [Deployed App](https://dirie93.github.io/Next-Plan/)
 
